@@ -1,6 +1,6 @@
-# 🎓 SUST-CSE Departmental Portal
+# SUST-CSE Departmental Portal
 
-### **Lead Architect & Full-Stack Developer:** [Zubayer Hossain Uday](https://github.com/uday-zubayer)
+### **Lead Architect & Full-Stack Developer:** [Zubayer Hossain Uday](https://github.com/Uday2027)
 
 > **A professional, unified digital ecosystem built for the Department of Computer Science and Engineering, SUST.**
 
@@ -8,7 +8,7 @@ Welcome! This portal is a comprehensive solution designed to bridge the gap betw
 
 ---
 
-## 📖 Project Vision
+## Project Vision
 
 In a fast-paced academic environment like CSE SUST, information often gets lost in emails and social media groups. This project was conceived to:
 
@@ -18,7 +18,7 @@ In a fast-paced academic environment like CSE SUST, information often gets lost 
 
 ---
 
-## �️ Technical Architecture
+## Technical Architecture
 
 To demonstrate professional-grade engineering, the project is hosted under a GitHub Organization and follows a **Modular Monolith** pattern:
 
@@ -28,22 +28,22 @@ To demonstrate professional-grade engineering, the project is hosted under a Git
 
 ---
 
-## 🌟 High-Impact Features
+## High-Impact Features
 
-### � Multi-Tier Governance (RBAC)
+### Multi-Tier Governance (RBAC)
 Customized dashboards for **Students, Teachers, and Admins**, ensuring that the right people have the right tools.
 
-### 💰 Financial Transparency Module
+### Financial Transparency Module
 A unique system allowing society leaders to post income/expenses with image/PDF proof, viewable by the entire department to ensure accountability.
 
-### 📝 Academic & Community Hub
+### Academic & Community Hub
 * **Blogging Engine:** Full Markdown support for technical articles.
 * **Notice Board:** Real-time event and academic announcements.
 * **Directories:** Organized, searchable databases for Faculty and Alumni.
 
 ---
 
-## 🛠️ User Journey & System Governance
+## User Journey & System Governance
 
 ### 1. User Verification & Onboarding
 - **Registration**: All users (Students, Teachers, Alumni) register via a unified portal.
@@ -66,7 +66,7 @@ A unique system allowing society leaders to post income/expenses with image/PDF 
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 | Layer | Technologies |
 | --- | --- |
@@ -77,7 +77,7 @@ A unique system allowing society leaders to post income/expenses with image/PDF 
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 <details>
 <summary><b>View Installation Instructions</b></summary>
@@ -101,11 +101,10 @@ npm run dev
 
 ---
 
-## � License & Contact
+## License & Contact
 
 This project is licensed under the ISC License.
 
-**Maintained by:** [Zubayer Hossain Uday](mailto:uday.sust.cse@gmail.com)
+**Maintained by:** [Zubayer Hossain Uday](mailto:zubayerhossain1009@gmail.com)
 
 *Feel free to reach out for collaboration or deployment queries.*
-# .github
